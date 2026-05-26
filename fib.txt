@@ -1,0 +1,15 @@
+1]fibonacciSeries 
+
+-->	int a=0,b=1;
+	c=a+b;
+	System.out.println(c);
+	a=b;
+	b=c;
+
+noOfDigits
+
+->>
+int digit=0,n=1;
+digit= n%10;
+sum=sum+digit;
+n=n/10;
